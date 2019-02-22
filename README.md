@@ -9,7 +9,13 @@ SparkFun Ambient Light Sensor Breakout Board - TEMT6000
  
 Repository Contents
 -------------------
+
 * **/Hardware** - All Eagle design files (.brd, .sch)
+
+Documentation
+--------------
+
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/temt6000-ambient-light-sensor-hookup-guide)** - Basic hookup guide.
 
 License Information
 -------------------
